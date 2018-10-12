@@ -1,0 +1,50 @@
+{
+    "name" : "roblox-project-base",
+    "servePort" : 8000,
+    "partitions" : {
+        "NevermoreEngine-App" : {
+            "path" : "./NevermoreEngine/App/Nevermore.lua",
+            "target" : "ReplicatedStorage.Nevermore"
+        },
+
+        "NevermoreEngine-Core" : {
+            "path" : "./NevermoreEngine/Modules",
+            "target" : "ServerScriptService.Nevermore.Core"
+        },
+        
+        "roblox-ecs-framework" : {
+            "path" : "./Roblox-ECS-Framework/src/",
+            "target" : "ServerScriptService.Nevermore.ECSFramework"
+        },
+
+        "roblox-control-bindings-framework" : {
+            "path" : "./Roblox-ControlBindingsFramework/src/",
+            "target" : "ServerScriptService.Nevermore.ControlBindings"
+        },
+
+        "testez" : {
+            "path" : "./testez/lib/",
+            "target" : "TestService.TestEZ"
+        },
+
+        "tests" : {
+            "path" : "./Tests/",
+            "target" : "TestService.Tests"
+        },
+
+        "server" : {
+            "path" : "./Server/",
+            "target" : "ServerScriptService.ServerScripts"
+        },
+
+        "client" : {
+            "path" : "./Client/",
+            "target" : "StarterPlayer.StarterPlayerScripts.ClientScripts"
+        },
+
+        "modules" : {
+            "path" : "./Modules/",
+            "target" : "ServerScriptService.Nevermore.Modules"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+[submodule "NevermoreEngine"]
+	path = NevermoreEngine
+	url = git@github.com:Quenty/NevermoreEngine.git
+	branch = version2
+[submodule "Roblox-ControlBindingsFramework"]
+	path = Roblox-ControlBindingsFramework
+	url = git@github.com:Twin1Twin2/Roblox-ControlBindingsFramework.git
+[submodule "roblox-ecs-framework-v6"]
+	path = Roblox-ECS-Framework
+	url = git@bitbucket.org:TheEpicTwin/roblox-ecs-framework-v6.git
+[submodule "testez"]
+	path = testez
+	url = git@github.com:Roblox/testez.git
