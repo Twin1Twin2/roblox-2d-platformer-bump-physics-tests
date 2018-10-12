@@ -6,7 +6,7 @@
 	path = Roblox-ControlBindingsFramework
 	url = git@github.com:Twin1Twin2/Roblox-ControlBindingsFramework.git
 [submodule "roblox-ecs-framework-v6"]
-	path = Roblox-ECS-Framework
+	path = roblox-ecs-framework-v6
 	url = git@bitbucket.org:TheEpicTwin/roblox-ecs-framework-v6.git
 [submodule "testez"]
 	path = testez
