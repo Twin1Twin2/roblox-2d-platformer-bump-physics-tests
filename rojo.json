@@ -19,7 +19,7 @@
 
         "roblox-control-bindings-framework" : {
             "path" : "./Roblox-ControlBindingsFramework/src/",
-            "target" : "ServerScriptService.Nevermore.ControlBindings"
+            "target" : "ServerScriptService.Nevermore.ControlBindingsFramework"
         },
 
         "testez" : {
@@ -30,6 +30,11 @@
         "tests" : {
             "path" : "./Tests/",
             "target" : "TestService.Tests"
+        },
+
+        "tester" : {
+            "path" : "./Tester.server.lua",
+            "target" : "TestService.Tester"
         },
 
         "server" : {
