@@ -8,3 +8,6 @@
 [submodule "testez"]
 	path = testez
 	url = git@github.com:Roblox/testez.git
+[submodule "Roblox-ECS-Framework"]
+	path = Roblox-ECS-Framework
+	url = git@bitbucket.org:TheEpicTwin/roblox-ecs-framework-v6.git
