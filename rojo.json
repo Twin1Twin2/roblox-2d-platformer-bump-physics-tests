@@ -1,5 +1,5 @@
 {
-    "name" : "roblox-project-base",
+    "name" : "gui-based-2d-platformer-stuff",
     "servePort" : 8000,
     "partitions" : {
         "NevermoreEngine-App" : {
